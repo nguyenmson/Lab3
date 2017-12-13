@@ -1,6 +1,8 @@
 change 1
 <<<<<<< HEAD
 change 2 - master branch
+change 3 - testing branch
 =======
 change 3 - testing branch
+change 4 - testing branch
 >>>>>>> testing
